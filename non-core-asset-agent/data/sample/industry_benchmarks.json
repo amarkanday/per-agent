@@ -1,0 +1,9 @@
+{
+  "industry": "Manufacturing",
+  "metrics": {
+    "asset_turnover": 1.8,
+    "return_on_assets": 0.11,
+    "revenue_per_employee": 350000,
+    "space_utilization": 82
+  }
+}

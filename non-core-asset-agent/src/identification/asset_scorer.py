@@ -1,0 +1,2 @@
+# Scoring mechanism for assets
+
